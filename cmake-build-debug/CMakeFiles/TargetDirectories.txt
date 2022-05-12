@@ -1,0 +1,3 @@
+C:/Users/guira/CLionProjects/TetsGITavecWej/cmake-build-debug/CMakeFiles/TetsGITavecWej.dir
+C:/Users/guira/CLionProjects/TetsGITavecWej/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/guira/CLionProjects/TetsGITavecWej/cmake-build-debug/CMakeFiles/rebuild_cache.dir

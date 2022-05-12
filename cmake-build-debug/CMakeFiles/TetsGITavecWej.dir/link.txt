@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\TetsGITavecWej.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\TetsGITavecWej.dir/objects.a @CMakeFiles\TetsGITavecWej.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\TetsGITavecWej.dir/objects.a -Wl,--no-whole-archive -o TetsGITavecWej.exe -Wl,--out-implib,libTetsGITavecWej.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TetsGITavecWej.dir\linklibs.rsp
